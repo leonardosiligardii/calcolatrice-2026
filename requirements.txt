@@ -4,6 +4,8 @@ colorama==0.4.6
     # via pytest
 iniconfig==2.3.0
     # via pytest
+numpy==2.4.3
+    # via -r ./requirements.in
 packaging==26.0
     # via pytest
 pluggy==1.6.0
