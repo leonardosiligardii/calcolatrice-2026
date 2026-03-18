@@ -2,7 +2,7 @@ from funzioni.somma import somma
 import sys
 
 
-
+# Calcolatrice
 
 def calculate_sum(num1, num2):
     """Calcola la somma di due numeri."""
